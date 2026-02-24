@@ -1,0 +1,10 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export SCRIPTS_HOME:/home/hamid/\x2escripts
+SETUVAR --export SUCKLESS_HOME:/home/hamid/\x2esuckless
+SETUVAR --export WALLPAPERS_HOME:/home/hamid/\x2ewallpapers
+SETUVAR --export XDG_CACHE_HOME:/home/hamid/\x2ecache
+SETUVAR --export XDG_CONFIG_HOME:/home/hamid/\x2econfig
+SETUVAR --export XDG_DATA_HOME:/home/hamid/\x2elocal/share
+SETUVAR --export XDG_STATE_HOME:/home/hamid/\x2elocal/state/
+SETUVAR __fish_initialized:4300
